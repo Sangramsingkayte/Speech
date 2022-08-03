@@ -1,6 +1,6 @@
 # Speech
 
-**Speech Enhancement Recipe **:- Several techniques are currently accessible in SpeechBrain, including spectrum masking, spectral mapping, and time-domain improvement. Additionally, separation techniques like Conv-TasNet, DualPath RNN, and SepFormer are used.
+**Speech Enhancement Recipe**:- Several techniques are currently accessible in SpeechBrain, including spectrum masking, spectral mapping, and time-domain improvement. Additionally, separation techniques like Conv-TasNet, DualPath RNN, and SepFormer are used.
 
 **#Speaker Recognition Recipe**:- A wide range of practical applications now use speaker recognition. For speaker recognition, SpeechBrain offers a variety of models, including X-vector, ECAPA-TDNN, PLDA, and contrastive learning.
 
